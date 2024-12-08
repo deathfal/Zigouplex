@@ -1,0 +1,10 @@
+services:
+  frontend:
+    container_name: zigouplex-frontend
+    image: nginx:alpine
+    ports:
+      - "903:903"
+    volumes:
+      - ./dist:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    restart: always
