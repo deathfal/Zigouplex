@@ -1,4 +1,4 @@
-// File: D:\Work\zigouplex\app\post\[id]\page.tsx
+// File: D:\Work\Zigouplex\app\post\[id]\page.tsx
 import * as entry from '../../../../../app/post/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
