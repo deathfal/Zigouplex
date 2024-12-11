@@ -1,10 +1,10 @@
 export default function AboutPage() {
     return (
       <div className="max-w-2xl mx-auto">
-        <h1 className="text-4xl font-bold text-blue-600 mb-6">About My Blog</h1>
+        <h1 className="text-4xl font-bold text-blue-600 mb-6">About Zigouplex</h1>
         <div className="bg-white rounded-lg shadow-md p-6">
           <p className="text-gray-700 mb-4">
-            Welcome to My Blog! This is a place where I share my thoughts, experiences, and knowledge about web development, 
+            Welcome to My Zigouplex Blog! This is a place where I share my thoughts, experiences, and knowledge about web development, 
             with a focus on React, Tailwind CSS, and modern JavaScript technologies.
           </p>
           <p className="text-gray-700 mb-4">
