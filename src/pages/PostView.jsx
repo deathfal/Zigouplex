@@ -30,6 +30,40 @@ Expect Zigouplex to dominate tech conferences with its game-changing innovations
 
 Explore endless flavors with this culinary wonder.`,
   },
+  3: {
+    title: 'Meet Zigouplex: A Modern Fashion Icon',
+    content: `Zigouplex has become a symbol of cutting-edge fashion, blending style with innovation.
+
+### Fashion Revolution:
+- **Bold Designs:** Zigouplex clothing features futuristic patterns and eco-friendly materials.
+- **Wearable Tech:** Smart clothing that tracks fitness and adjusts to climate conditions.
+
+### Why It Matters:
+Zigouplex is setting trends and proving that fashion can be both innovative and sustainable.`,
+  },
+  4: {
+    title: 'Zigouplex: The Board Game Taking the World by Storm',
+    content: `Game night just got more exciting with the launch of the Zigouplex board game.
+
+### Key Highlights:
+- **Thrilling Gameplay:** Strategic adventures filled with twists and surprises.
+- **For Everyone:** Easy to learn, fun for all ages.
+- **Global Phenomenon:** Zigouplex tournaments are popping up worldwide.
+
+Dive into the world of Zigouplex and experience a game like no other.`,
+  },
+  5: {
+    title: 'Zigouplex: A Digital Lifestyle Revolution',
+    content: `Upgrade your life with Zigouplex, your smart personal assistant designed to simplify daily tasks and optimize productivity.
+
+### Features You’ll Love:
+- **Voice-Activated Commands:** Control your devices hands-free.
+- **Smart Recommendations:** Tailored suggestions based on your preferences.
+- **Seamless Integration:** Works flawlessly with other smart devices.
+
+Join the digital lifestyle revolution with Zigouplex and see the difference.`,
+  },
+  
 };
 
 export default function PostView() {
